@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Chào em, chưa ngủ hở, tối ni a rảnh quá!',
+    introTitle: 'Chào em, dậy sớm giỏi ghê ta, chào ngày mới nè!',
     introDesc: `Ơ kìa nhìn cái grì thế ?`,
     btnIntro: 'Nhấn đây nè',
-    title: 'Hôm nay có mưa nhỉ ',
+    title: 'Dù hôm qua có mưa nhỉ nhưng hôm nay vẫn có nắng đẹp ',
     desc: 'em có muốn làm ny anh không?',
     btnYes: 'Có ạ',
     btnNo: 'Mơ đi cưng',
