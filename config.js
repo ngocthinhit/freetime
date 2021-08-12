@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Cảm ơn nè <3',
     messDesc: 'Im just kidding...',
     btnAccept: 'Vâng <3',
-    messLink: 'https://www.facebook.com/nguyenngocthinh267/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.messenger.com/t/100004093670448/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
